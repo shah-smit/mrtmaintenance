@@ -15,4 +15,8 @@ Incident_data.csv
 ```html
 dvc_id: the device id, that can be linked in ATM_details.csv
 impact: the severity of the fault
+Low Impact - 1 
+Medium Impact - 2
+High Impact - 3
+timestamp: the time when incident occurs
 ```
